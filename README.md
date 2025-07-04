@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Yash Oza
+# Hi there 👋, I'm Yash Prajapati
 
 💻 Computer Engineering student | Passionate about Web Development, IoT, and Open Source  
 🚀 Currently exploring **MERN stack**, **IoT with Arduino & Raspberry Pi**, and **DevOps basics**  
