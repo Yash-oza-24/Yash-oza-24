@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Yash Oza
 
-<!--
-**Yash-oza-24/Yash-oza-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering student | Passionate about Web Development, IoT, and Open Source  
+🚀 Currently exploring **MERN stack**, **IoT with Arduino & Raspberry Pi**, and **DevOps basics**  
+🎯 Always eager to learn, build, and contribute to meaningful projects  
+📫 How to reach me: [LinkedIn](#) | [Email](#)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Frontend**: React, TailwindCSS, Bootstrap
+- **Backend**: Node.js, Express.js, MongoDB
+- **Tools**: Git/GitHub, VSCode, Postman, Docker (basics)
+- **Others**: C++, Java, Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Check out my projects below and feel free to connect or collaborate!
