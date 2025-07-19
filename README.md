@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Yash Prajapati
 
-💻 Computer Engineering student | Passionate about Web Development, IoT, and Open Source  
-🚀 Currently exploring **MERN stack**, **IoT with Arduino & Raspberry Pi**, and **DevOps basics**  
-🎯 Always eager to learn, build, and contribute to meaningful projects  
+💻 Computer Engineering student | Passionate about Web Development.
+🚀 Currently exploring **MERN stack**.
+🎯 Always eager to learn, build, and contribute to meaningful projects.  
 📫 How to reach me: [LinkedIn](#) | [Email](#)
 
 ## 🛠️ Skills
