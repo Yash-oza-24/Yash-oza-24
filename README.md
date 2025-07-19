@@ -8,7 +8,7 @@
 ## 🛠️ Skills
 - **Frontend**: React, TailwindCSS, Bootstrap
 - **Backend**: Node.js, Express.js, MongoDB
-- **Tools**: Git/GitHub, VSCode, Postman, Docker (basics)
-- **Others**: C++, Java, Arduino
+- **Tools**: Git/GitHub, VSCode, Postman
+- **Others**: Puppeteer, Web scraping 
 
 ⭐ Check out my projects below and feel free to connect or collaborate!
