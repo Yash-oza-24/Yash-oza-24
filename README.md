@@ -18,21 +18,9 @@
 - 🔥 Skilled in **MERN Stack, Firebase, and Modern UI Libraries**
 - 🧠 Exploring **System Design, Backend Optimization & Scalable Architectures**
 - ✨ Love building **clean, modern, responsive UI**
-- 📫 Reach me at **yashoza47@gmail.com**
+- 📫 Reach me at **yashoza2408@gmail.com**
 
 🌐 **Portfolio:** https://yashoza.netlify.app  
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/yash-prajapati-510957380/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="mailto:yashoza2408@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
